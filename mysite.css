@@ -96,7 +96,7 @@ header {
 .form-container {
     position: relative;
     max-width: 400px;
-    margin: 100px auto 50px; /* Зменшіть нижній маргін */
+    margin: 100px auto 50px; 
     padding: 20px;
     border: 1px solid #758694;
     border-radius: 8px;
